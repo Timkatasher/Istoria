@@ -1,0 +1,56 @@
+#Zagolovok{
+  position: absolute;
+  left: 560px;
+  
+}
+#Vstuplenie{
+  position: absolute;
+    top: 15%;
+  left:2%
+  
+}
+#Uhadi{
+  position: absolute;
+    top: 45%;
+  left: 25%;
+}
+#Poiti{
+  position:absolute;
+  top: 45%;
+  left: 40%;
+    
+}
+.hidden{
+  display:none!important;
+}
+#ProdolU{
+  position: absolute;
+    top: 85px;
+  
+}
+#durak{
+display:block;
+    top: 85px;
+    font-size: 5em;
+  margin:auto;
+}
+#debil{
+  position: absolute;
+    top: 50%;
+  left:15%;
+    font-size: 2.5em;
+}
+#durak2{
+  width:100%;
+}
+#nazad{
+  position:absolute;
+  left:60%;
+  font-size: 1.5em;
+  top:50%;
+}
+#privet{
+  position:absolute;
+  top:20%;
+  left:1%
+}
